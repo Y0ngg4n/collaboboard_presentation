@@ -153,7 +153,6 @@ transition: slide-left
 - Tests mit verschiedenen Browsern hat weniger Probleme bereitet
 - Langsamer als WebRTC, da TCP 
 - Zuverlässiger, da TCP
----
 
 ---
 layout: section
